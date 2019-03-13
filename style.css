@@ -1,9 +1,12 @@
-@import "{{ site.theme }}";
-
 h1{
     font-family: Arial;
     color: blue;
+    text-align: center;
+    font-size: 400%
   }
   body{
     margin: 25px 25px;
+  }
+  p{
+    font-size: 400%
   }
